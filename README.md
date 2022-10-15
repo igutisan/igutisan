@@ -1,4 +1,4 @@
-## Hey, [I am Inder!]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<img src = 'https://github.com/igutisan/igutisan/blob/c580939742b3b67a2b1f186cbba8c6b281f531b7/Saved%20Pictures/hi%20there!%20im%20inder.gif' height='30'width='30'/>
 
 <h1>Welcome to my life abode in the Digital World...</h1> 
 
