@@ -16,7 +16,7 @@
 
 ## Programming Languages
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/igutisan/igutisan/blob/main/Saved%20Pictures/c%23.png' width='30' height='30'/><img src = 'https://github.com/igutisan/igutisan/blob/1d2f823a7158945f9e460481a90de9d4a3e5ca2b/Saved%20Pictures/mongoDB.png' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/igutisan/igutisan/blob/2b718b5efc6c9a70f5c6cb18d67bb03097233d27/Saved%20Pictures/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png' width='30' height='30'/><img src = 'https://github.com/igutisan/igutisan/blob/2b718b5efc6c9a70f5c6cb18d67bb03097233d27/Saved%20Pictures/kisspng-mongodb-nosql-document-oriented-database-portable-thessalon%C3%ADki-mongodb-user-group-thessalon%C3%ADki-g-5b639f0975a398.5970418615332554334819.png' width='30'/>
 
  
  ## Technologies I Use
