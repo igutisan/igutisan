@@ -40,7 +40,7 @@
 	def Ambitions():
 		LearnEnglish()
 		LearnJS()
-		buildPersonalProject()
+		BuildPersonalProject()
 		# Assume 10 more awesome ambitions here  
 	
  ```
