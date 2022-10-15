@@ -12,11 +12,11 @@
 
 * Frontend and Backend Web Development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igutisan)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igutisan&layout=compact)]
 
 ## Programming Languages
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = https://github.com/igutisan/igutisan/blob/main/Saved%20Pictures/c%23.png width='30' height='30'/><img src = 'https://github.com/igutisan/igutisan/blob/1d2f823a7158945f9e460481a90de9d4a3e5ca2b/Saved%20Pictures/mongoDB.png' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/igutisan/igutisan/blob/main/Saved%20Pictures/c%23.png' width='30' height='30'/><img src = 'https://github.com/igutisan/igutisan/blob/1d2f823a7158945f9e460481a90de9d4a3e5ca2b/Saved%20Pictures/mongoDB.png' width='30'/>
 
  
  ## Technologies I Use
