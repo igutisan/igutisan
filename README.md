@@ -35,8 +35,9 @@
 		hobbies = [
 				'Read',
 				'Watching Anime',
-				'Play videogames'
-				'Listen music'
+				'Play videogames',
+				'Listen music',
+				'GYM'
 			]
 	
 	def getCity():
@@ -44,14 +45,14 @@
 	
 	def Ambitions():
 		LearnEnglish()
-		LearnJS()
+		Learn Spring boot ()
 		BuildPersonalProject()
 		# Assume 10 more awesome ambitions here  
 	
  ```
  
 ## Current Works
- * Started learning JS and React !!
+ * Started learning spring boot and build services with java !!
  * I'm currently working on 🔭 building **Web Apps using NodeJs and MongoDB** and working up on polishing my skills 🌱 in **Competitive Programming**.
  * I am not currently working for a company.
  
