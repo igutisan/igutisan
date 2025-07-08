@@ -45,14 +45,14 @@
 	
 	def Ambitions():
 		LearnEnglish()
-		Learn Spring boot ()
+		Learn design patterns ()
 		BuildPersonalProject()
 		
 	
  ```
  
 ## Current Works
- * Started learning spring boot and build services with java !!
+ * Started learning software architecture and build services with java and other languajes like node !!
  * I'm currently working on 🔭 building **Aplications with Java** and working up on polishing my skills 🌱 in **Competitive Programming**.
  * I am not currently working for a company.
  
