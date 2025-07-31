@@ -1,6 +1,6 @@
-<img src = https://github.com/igutisan/igutisan/blob/c580939742b3b67a2b1f186cbba8c6b281f531b7/Saved%20Pictures/hi%20there!%20im%20inder.gif />
 
-<h1>Welcome to my life abode in the Digital World...</h1> 
+
+<h1>Welcome to my life in the Digital World...</h1> 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
